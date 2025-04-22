@@ -1,0 +1,10 @@
+path: '/content/gdrive/My Drive/microplastics_augmented' # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: val/images   
+test: test/images
+
+names:
+  0: fiber
+  1: film
+  2: fragment
+  3: pallet
