@@ -16,11 +16,11 @@ CLEANSE-AI presents an end-to-end computer vision framework designed to detect a
    - Motion Blur (18.5%)
    - Lighting variations
 
-2. **Microplastic Detection using YOLOv8**  
+2. **Microplastic Detection using YOLOv10**  
    - Detects individual particles with bounding boxes.
    - Outputs features like size and shape.
 
-3. **Pollution Classification using Random Forest**  
+3. **Pollution Classification using Custom Classifier**  
    - Extracted features: count, size metrics, aspect ratio.
    - Predicts pollution level: Low, Moderate, High, or Critical.
 
