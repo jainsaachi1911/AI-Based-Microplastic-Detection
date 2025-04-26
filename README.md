@@ -60,7 +60,7 @@ CLEANSE-AI presents an end-to-end computer vision framework designed to detect a
 
 ## Technologies Used
 
-- YOLOv8  
+- YOLOv10 
 - OpenCV, imgaug    
 - Streamlit  
 - Python 3.10
