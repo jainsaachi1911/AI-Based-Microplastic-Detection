@@ -64,7 +64,3 @@ CLEANSE-AI presents an end-to-end computer vision framework designed to detect a
 - OpenCV, imgaug    
 - Streamlit  
 - Python 3.10
-
----
-
-## 📁 Folder Structure (Recommended)
