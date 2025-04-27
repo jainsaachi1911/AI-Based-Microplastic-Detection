@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-CLEANSE-AI presents an end-to-end computer vision framework designed to detect and classify microplastics in microscopic water images. The solution leverages advanced data augmentation techniques, YOLOv8 for object detection, and a Random Forest classifier to assess pollution severity. This system aims to provide scalable, interpretable, and automated environmental monitoring.
+CLEANSE-AI presents an end-to-end computer vision framework designed to detect and classify microplastics in microscopic water images. The solution leverages advanced data augmentation techniques, YOLOv10 for object detection, and a custom classifier to assess pollution severity. This system aims to provide scalable, interpretable, and automated environmental monitoring.
 
 ---
 
